@@ -1,5 +1,7 @@
 output/
 .vscode/
 base64
-target.webp
-
+*.webp
+*.png
+*.jpg
+*.txt
